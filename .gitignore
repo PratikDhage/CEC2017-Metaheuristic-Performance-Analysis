@@ -1,0 +1,13 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Data and Results
+results/raw_data/
+results/all_histories.npy
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
