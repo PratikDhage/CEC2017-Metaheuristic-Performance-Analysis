@@ -24,6 +24,7 @@ This repository contains a comprehensive experimental pipeline for evaluating an
 └── results/                    # Generated data and outputs
     ├── all_algo_results.csv    # Master CSV with all runs (generated)
     ├── all_histories.npy       # Convergence history arrays (generated)
+    ├── plots/                  # PLots generated from plots.py
     └── analysis_output/        # Output from statistical_tests.py (generated)
 ```
 
