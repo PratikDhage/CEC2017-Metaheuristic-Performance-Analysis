@@ -20,8 +20,7 @@ This repository contains a comprehensive experimental pipeline for evaluating an
 │   └── cec2017_loader.py       # Opfunu CEC 2017 loader
 ├── experiments/                # Experiment runners
 │   └── run_all.py              # Multiprocessing execution pipeline
-├── report/                     # LaTeX source for the research paper/report
-│   └── report.tex
+├── report.pdf                  # Project Report
 └── results/                    # Generated data and outputs
     ├── all_algo_results.csv    # Master CSV with all runs (generated)
     ├── all_histories.npy       # Convergence history arrays (generated)
