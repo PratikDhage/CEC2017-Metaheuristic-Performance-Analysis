@@ -1,7 +1,0 @@
-Comparison,W,T,L
-ABC vs GA,2,1,1
-ABC vs PSO,3,1,0
-ABC vs Tabu,3,1,0
-GA vs PSO,0,3,1
-GA vs Tabu,2,1,1
-PSO vs Tabu,1,2,1
