@@ -1,0 +1,11 @@
+Comparison,W,T,L
+ABC vs DE,6,2,2
+ABC vs GA,3,6,1
+ABC vs PSO,4,4,2
+ABC vs WOA,5,4,1
+DE vs GA,3,2,5
+DE vs PSO,2,5,3
+DE vs WOA,2,7,1
+GA vs PSO,3,5,2
+GA vs WOA,5,4,1
+PSO vs WOA,3,5,2
